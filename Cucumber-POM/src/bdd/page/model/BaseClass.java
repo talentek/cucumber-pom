@@ -1,4 +1,4 @@
-package bdd.base;
+package bdd.page.model;
 
 import org.openqa.selenium.WebDriver;
 
